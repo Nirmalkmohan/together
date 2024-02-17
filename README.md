@@ -1,16 +1,11 @@
-# together
+# Together Task
 
-A new Flutter project.
+Together Task is a Flutter application that showcases a discovery page with dynamic content fetched from an API endpoint.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Fetches data from an API endpoint and displays it in a scrollable list.
+- Supports infinite scrolling to load more data as the user reaches the end of the list.
+- Allows users to scroll to the top or bottom of the list with ease using floating action buttons.
+- image dialogue box to see the image bigger.
+- launcher icon.
